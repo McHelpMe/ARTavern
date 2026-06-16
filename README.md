@@ -24,7 +24,7 @@
 
 ## ⚠️ Work in Progress
 
-ArtAvern is currently in **preview mode**. Features are actively being developed and things may change. You're welcome to explore, test, and share feedback — it all helps shape what this becomes.
+Artavern is currently in **preview mode**. Features are actively being developed and things may change. You're welcome to explore, test, and share feedback — it all helps shape what this becomes.
 
 ---
 
@@ -45,7 +45,7 @@ Artists deserve better.
 
 ## ✨ What ArtAvern Does
 
-ArtAvern was built around a single principle: **art belongs to the artist.** Every feature reflects that.
+Artavern was built around a single principle: **art belongs to the artist.** Every feature reflects that.
 
 | Feature | What It Solves |
 |---|---|
@@ -60,7 +60,7 @@ ArtAvern was built around a single principle: **art belongs to the artist.** Eve
 
 ## 🔧 Running Locally (Preview)
 
-ArtAvern is still in active development. To run it locally, follow these steps:
+Artavern is still in active development. To run it locally, follow these steps:
 
 ### What You'll Need
 - A web server with PHP support (XAMPP, WAMP, MAMP, or similar)
@@ -72,3 +72,31 @@ ArtAvern is still in active development. To run it locally, follow these steps:
 1. **Download the project**
    ```bash
    git clone https://github.com/your-username/artavern.git
+Or download the ZIP and extract it.
+
+2. Move the files
+
+Place the entire artavern folder into your web server's document root:
+XAMPP: C:/xampp/htdocs/artavern/
+WAMP: C:/wamp64/www/artavern/
+MAMP: /Applications/MAMP/htdocs/artavern/
+
+3. Start your local server
+Fire up your web server (Apache) and MySQL through your stack's control panel (XAMPP Control Panel, WAMP Manager, etc.).
+
+4. Set up the database
+Open phpMyAdmin at http://localhost/phpmyadmin
+Create a new database called artavern
+Import the provided SQL file from the database/ folder (if included)
+
+5. Configure the connection
+Open the config file (likely config.php or .env) and update the database credentials:
+php
+// Example
+DB_HOST = 'localhost'
+DB_USER = 'root'
+DB_PASS = ''
+DB_NAME = 'artavern'
+
+6.Open it up
+Navigate to http://localhost/artavern in your browser.
