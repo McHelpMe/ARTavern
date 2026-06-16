@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="ArtAvern Logo" width="200"/>
+  <🍺>
   
   # ARTavern
   ### Art Belongs to the Artist.
