@@ -1,5 +1,5 @@
 <div align="center">
-  <🍺>
+  🍺
   
   # ARTavern
   ### Art Belongs to the Artist.
