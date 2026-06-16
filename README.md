@@ -18,13 +18,7 @@
 
 ## 🎥 See It in Action
 
-<!-- Replace the src below with the path to your video file -->
-<!-- Supported formats: .mp4, .webm, .ogg -->
-
-https://github.com/user-attachments/assets/showcase-demo.mp4
-
-<!-- Alternatively, if hosting externally: -->
-<!-- [![ArtAvern Demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+[![ArtAvern Demo](https://img.youtube.com/vi/zY2lNQP15iM/maxresdefault.jpg)](https://www.youtube.com/watch?v=zY2lNQP15iM)
 
 ---
 
