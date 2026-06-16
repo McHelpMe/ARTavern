@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="ArtAvern Logo" width="200"/>
   
-  # Artavern
+  # ARTavern
   ### Art Belongs to the Artist.
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
