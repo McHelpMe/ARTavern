@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="ArtAvern Logo" width="200"/>
   
-  # ArtAvern
+  # Artavern
   ### Art Belongs to the Artist.
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -21,7 +21,7 @@
 <!-- Replace the src below with the path to your video file -->
 <!-- Supported formats: .mp4, .webm, .ogg -->
 
-https://github.com/user-attachments/assets/PLACEHOLDER-VIDEO-ID
+https://github.com/user-attachments/assets/showcase-demo.mp4
 
 <!-- Alternatively, if hosting externally: -->
 <!-- [![ArtAvern Demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
