@@ -91,12 +91,12 @@ Import the provided SQL file from the database/ folder (if included)
 
 5. Configure the connection
 Open the config file (likely config.php or .env) and update the database credentials:
-php
+```php
 // Example
 DB_HOST = 'localhost'
 DB_USER = 'root'
 DB_PASS = ''
 DB_NAME = 'artavern'
-
+```
 6.Open it up
 Navigate to http://localhost/artavern in your browser.
