@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Artist Haven Logo" width="200"/>
+  <img src="assets/logo.png" alt="ArtAvern Logo" width="200"/>
   
-  # Artist Haven
+  # ArtAvern
   ### Art Belongs to the Artist.
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+  [![Status](https://img.shields.io/badge/status-preview-orange.svg)]()
 
   <p>
     <strong>The first platform built for artists, not algorithms.</strong><br/>
@@ -23,7 +24,13 @@
 https://github.com/user-attachments/assets/PLACEHOLDER-VIDEO-ID
 
 <!-- Alternatively, if hosting externally: -->
-<!-- [![Artist Haven Demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+<!-- [![ArtAvern Demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+
+---
+
+## ⚠️ Work in Progress
+
+ArtAvern is currently in **preview mode**. Features are actively being developed and things may change. You're welcome to explore, test, and share feedback — it all helps shape what this becomes.
 
 ---
 
@@ -42,9 +49,9 @@ Artists deserve better.
 
 ---
 
-## ✨ What Artist Haven Does
+## ✨ What ArtAvern Does
 
-Artist Haven was built around a single principle: **art belongs to the artist.** Every feature reflects that.
+ArtAvern was built around a single principle: **art belongs to the artist.** Every feature reflects that.
 
 | Feature | What It Solves |
 |---|---|
@@ -57,37 +64,17 @@ Artist Haven was built around a single principle: **art belongs to the artist.**
 
 ---
 
-## 🧱 Tech Stack
+## 🔧 Running Locally (Preview)
 
-- **Frontend:** React / TypeScript / Canvas API
-- **Backend:** Node.js / Express / WebSocket
-- **Database:** PostgreSQL / Redis
-- **Infrastructure:** Docker / AWS S3 / CloudFront
+ArtAvern is still in active development. To run it locally, follow these steps:
 
-*(Customize this section with your actual stack)*
+### What You'll Need
+- A web server with PHP support (XAMPP, WAMP, MAMP, or similar)
+- MySQL (comes bundled with the above)
+- A browser
 
----
+### Setup Steps
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+
-- PostgreSQL 15+
-- Docker (optional)
-
-### Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/artist-haven.git
-cd artist-haven
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env
-# Fill in your keys in .env
-
-# Start the development server
-npm run dev
+1. **Download the project**
+   ```bash
+   git clone https://github.com/your-username/artavern.git
