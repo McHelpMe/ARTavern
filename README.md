@@ -76,10 +76,10 @@ Or download the ZIP and extract it.
 
 2. Move the files
 
-Place the entire artavern folder into your web server's document root:
-XAMPP: ```C:/xampp/htdocs/artavern/```
-WAMP: ```C:/wamp64/www/artavern/```
-MAMP: ```/Applications/MAMP/htdocs/artavern/```
+Place the entire artavern folder into your web server's document root: <br />
+XAMPP: ```C:/xampp/htdocs/artavern/```  <br />
+WAMP: ```C:/wamp64/www/artavern/``` <br />
+MAMP: ```/Applications/MAMP/htdocs/artavern/``` <br />
 
 3. Start your local server
 Fire up your web server (Apache) and MySQL through your stack's control panel (XAMPP Control Panel, WAMP Manager, etc.).
