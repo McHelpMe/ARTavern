@@ -16,7 +16,7 @@
 
 ---
 
-## 🎥 See It in Action (Basically nothing right now)
+## 🎥 See It in Action (V1 of the project)
 
 [![ArtAvern Demo](https://img.youtube.com/vi/zY2lNQP15iM/maxresdefault.jpg)](https://www.youtube.com/watch?v=zY2lNQP15iM)
 
